@@ -19,7 +19,7 @@ function Login() {
             </div>
         </form>
         <p>New user? 
-            <a href="/signup?">Sign up here!</a>
+            <a href="/signup">Sign up here!</a>
         </p>
     </div>
     );
